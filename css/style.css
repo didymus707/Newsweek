@@ -1,3 +1,65 @@
-body {
-    font: 100%;
+/* header */
+.sticky-top {
+    top: 0;
 }
+
+.date-cta {
+    font-size: 0.8rem;
+    background: #e9e9e9;
+    z-index: 2;
+    letter-spacing: -0.4px;
+}
+
+.date,
+.cta {
+    width: 50%;
+}
+
+.cta {
+    right: -4px;
+    top: 13px;
+}
+
+.sign,
+.sub {
+    padding: 6px 3px;
+}
+
+.sub {
+    background: #fff;
+    color: #f72210;
+}
+
+/* logo-menu style*/
+.logo-menu {
+    background: #f72210;
+    padding: 14px 10px;
+}
+
+.svg {
+    fill: #fff;
+    width: 150px;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    right: 0;
+}
+
+.icon::before,
+.mid,
+.icon::after {
+    content: '';
+    display: block;
+    width: 24px;
+    height: 4px;
+    background-color: #fb9a94;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mid {
+    margin: 4px auto;
+}
+
