@@ -63,3 +63,25 @@
     margin: 4px auto;
 }
 
+/* main*/
+.main {
+    padding-top: 20px;
+}
+
+.title {
+    font: bold 16px/16px sans-serif;
+    color: #03030366;
+    padding-bottom: 11px;
+}
+
+.country {
+    font: bold 17px/16px sans-serif;
+    text-transform: uppercase;
+    color: #f72210;
+    padding: 8px 15px 9px;
+    background-color: #ffffffe6;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
