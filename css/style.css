@@ -473,12 +473,15 @@
 }
 
 .sub-con {
+    text-align: center;
     background-color: #f4f5f6;
     padding: 24px 20px 20px;
 }
 
 .subs-image {
+    display: inline-block;
     padding-bottom: 13px;
+    padding-right: 90px;
 }
 
 .subs-img {
@@ -512,4 +515,78 @@
 
 .sign-summ {
     font-size: 16px;
+}
+
+/* footer */
+.footwrapper {
+    border-top: 2px solid #f4f5f6;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+}
+
+.f-logo svg {
+    display: block;
+    width: 236px;
+    height: 36px;
+    margin-right: 15px;
+    margin-bottom: 12px;
+    fill: #f72210;
+}
+
+.copyright {
+    font-size: 13px;
+    line-height: 12px;
+}
+
+.social {
+    margin-bottom: 12px;
+}
+
+.f-social {
+    margin: -11px 0 0;
+}
+
+.f-social li {
+    margin-left: 10px;
+}
+
+.f-social li:first-child {
+    margin-left: 0;
+}
+
+.f-social svg {
+    fill: #666;
+    width: 23px;
+}
+
+.footlinks {
+    padding-top: 6px;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.footlinks li {
+    display: inline-block;
+    padding-right: 20px;
+    margin: 6px 0;
+}
+
+.edit {
+    margin-top: 6px;
+    margin-right: 15px;
+}
+
+.footlinks .editul {
+    width: inherit;;
+}
+
+.ilu {
+    padding: 0;
+}
+
+.submenu {
+    padding-left: 0;;
 }
