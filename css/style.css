@@ -29,7 +29,7 @@
     color: #f72210;
 }
 
-/* logo-menu style*/
+/* logo-menu style */
 .svg {
     fill: #fff;
     width: 140px;
@@ -57,7 +57,7 @@
     margin: 4px auto;
 }
 
-/* main*/
+/* main */
 main {
     padding-top: 20px;
 }
@@ -146,7 +146,7 @@ main {
 }
 
 .c-summ {
-    font: 15px/20px "Helvetica Neue","Helvetica",Arial,sans-serif;
+    font: 15px/20px "Helvetica Neue", "Helvetica", Arial, sans-serif;
     color: #27272780;
     margin-bottom: 10px;
 }
