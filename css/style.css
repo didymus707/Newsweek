@@ -57,6 +57,10 @@
     margin: 4px auto;
 }
 
+.botbar {
+    display: none;
+}
+
 /* main */
 main {
     padding-top: 20px;
@@ -640,7 +644,7 @@ main {
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
     /* header area */
     .date,
     .cta {
@@ -662,6 +666,7 @@ main {
     }
 
     .botbar {
+        display: flex;
         text-transform: capitalize;
         height: 56px;
         padding: 6px 0;
@@ -672,7 +677,7 @@ main {
 
     .botbar li {
         border-right: 1px solid #dee2e6;
-        font-size: 19px;
+        font-size: 18px;
     }
 
     .nav li:last-child {
@@ -680,6 +685,7 @@ main {
     }
 
     .nav-link {
+        padding: 0.5rem 0.9rem;
         color: #000;
     }
 
