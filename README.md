@@ -39,7 +39,7 @@ Specs to the Project can be found [here](https://www.theodinproject.com/courses/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Click on this [link](https://raw.githack.com/didymus707/Newsweek/development/index.html) to check out the live version of the project
+Click on this [link](https://raw.githack.com/didymus707/Newsweek/contents/index.html) to check out the live version of the project
 
 
 <!-- CONTRIBUTING -->
@@ -58,7 +58,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 Adewale Orotayo - [@didy707](https://twitter.com/didy707) - didymus7007@gmail.com
 
-Project Link: [Responsive Site](https://github.com/didy707/newsweek).
+Project Link: [Responsive Site](https://github.com/didymus707/Newsweek/tree/master).
 
 
 
