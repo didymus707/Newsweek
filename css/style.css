@@ -699,6 +699,11 @@ main {
     }
 
     /* lt-contents */
+    .sticky {
+        position: sticky;
+        top: -217%;
+    }
+    
     .ct-box {
         margin: 0 -10px;
     }
