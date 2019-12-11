@@ -699,11 +699,11 @@ main {
     }
 
     /* lt-contents */
-    .sticky {
+    .midstick {
         position: sticky;
         top: -217%;
     }
-    
+
     .ct-box {
         margin: 0 -10px;
     }

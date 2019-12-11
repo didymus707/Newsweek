@@ -1,5 +1,4 @@
 # Newsweek
-# Newsweek
 Cloning [Newsweek](http://www.newsweek.com) a site that actually uses bootstrap
 
 ## Table of Contents
